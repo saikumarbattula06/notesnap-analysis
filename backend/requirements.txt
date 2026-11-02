@@ -1,0 +1,9 @@
+flask
+flask-cors
+transformers
+torch
+PyPDF2
+requests
+sentencepiece
+sacremoses
+deep-translator
